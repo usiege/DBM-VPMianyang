@@ -23,7 +23,7 @@
 - **注意：** 本语音包的所有语音素材版权全部属于小绵羊同学。
 
 
-[CurseForge: 预留]()
+[CurseForge: https://www.curseforge.com/wow/addons/dbm-vpmianyang](https://www.curseforge.com/wow/addons/dbm-vpmianyang)
 
 [WowInterface: 网址预留]()
 
